@@ -1,1 +1,1 @@
-# angelOS   (inntro to kali linux for dummies')
+# angelOS   (intro to kali linux for dummies')
