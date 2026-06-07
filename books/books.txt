@@ -1,1 +1,39 @@
+A Practical Guide to Linux Commands, Editors and Shell Programming – Mark G. Sobell (2018)
+A comprehensive reference and tutorial covering essential Linux commands, text editors (vim, emacs), and detailed shell programming (bash) for both beginners and experienced users.
+
+
+Computer Security: Principles and Practice – William Stallings (and Lawrie Brown) (2018 for the 4th Edition)
+A broad academic textbook covering cryptography, access control, malware, network security, and software security, balancing theoretical principles with practical implementation.
+
+
+Hacking: The Art of Exploitation, 2nd Edition – Jon Erickson (2008)
+A hands-on guide to real hacking techniques, including C programming, assembly language, exploit writing, buffer overflows, and network hacking, with live CD examples.
+
+
+How Linux Works: What Every Superuser Should Know – Brian Ward (2014 for 2nd Edition)
+An insider's guide to the internals of Linux, covering booting, kernel management, devices, filesystems, networking, and system administration for intermediate-to-advanced users.
+
+
+Kali Linux Revealed (2021 edition) – Raphaël Hertzog, Jim O’Gorman, Mati Aharoni (2021)
+The official Kali Linux guide covering installation, configuration, customization, and advanced penetration testing workflows, written by core Kali maintainers.
+
+
+Linux Basics for Hackers – OccupyTheWeb (2018)
+A beginner-friendly introduction to Linux specifically tailored for aspiring hackers and pentesters, covering networking, bash scripting, permissions, and common hacking tools.
+
+
+Linux Command Line and Shell Scripting Bible – Richard Blum, Christine Bresnahan (2021 for 4th Edition)
+A thorough tutorial covering everything from basic command-line usage to advanced scripting techniques, including regular expressions, sed, awk, and automation.
+
+
+Practical Malware Analysis – Michael Sikorski, Andrew Honig (2012)
+A hands-on guide to dissecting and understanding malicious software using static and dynamic analysis techniques, debugging, and reverse engineering tools.
+
+
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition – Dafydd Stuttard, Marcus Pinto (2011)
+The definitive guide to finding and exploiting web security flaws (SQLi, XSS, CSRF, etc.), covering attack techniques, methodology, and defensive strategies.
+
+
+Wicked Cool Shell Scripts, 2nd Edition – Dave Taylor (2017)
+A recipe-style collection of fun and useful shell scripts for macOS, Linux, and Unix, including system monitoring, file management, and text processing examples.
 
