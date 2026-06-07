@@ -40,3 +40,45 @@ A recipe-style collection of fun and useful shell scripts for macOS, Linux, and 
 
 Gray Hat Hacking: The Ethical Hacker's Handbook (Third Edition)
 Comprehensive ethical hacking handbook covering penetration testing techniques, exploit development, vulnerability discovery, malware analysis, and defensive countermeasures.
+
+
+Bug Bounty Playbook
+Real World Bug Hunting - A Field Guide to Web Hacking by Peter Yaworski
+Advanced Persistent Threat Hacking
+Begin Ethical Hacking with Python
+CompTIA Security+ Certification Guide
+Computer Security Fundamentals
+Linux Firewalls
+Mastering Kali Linux for Advanced Penetration Testing 2nd Edition
+Metasploit for Beginners
+Social Engineering - The Art of Human Hacking
+The Hacker Playbook 3 Practical Guide To Penetration Testing
+Digital Forensics and Incident Response
+Practical Mobile Forensics 3rd
+Wiley - Operating System Concepts - 10th Edition
+Honeypots and Routers Collecting Internet Attacks
+Mastering pfSense
+Metasploit Penetration Testing Cookbook 3rd Edition
+Network Attacks and Exploitation
+Network Analysis Using Wireshark 2 Cookbook
+Network Security Through Data Analysis 2nd Edition
+Nmap Network Exploration and Security Auditing Cookbook 2nd Edition
+TCP IP 24 hours 6th
+Assembly Language For x86 Processors
+Gray Hat Python - Python Programming for Hackers and Reverse Engineering
+Learning Malware Analysis
+Malware Data Science 2018
+The IDA Pro Book 2nd Edition
+Penetration testing a Hands on introduction to Hacking
+Hands On AWS Penetration Testing with Kali Linux
+Web Penetration Testing with Kali Linux 3rd Edition
+Oreilly Web Application Security by Andrew Hoffman
+The Web Application Hackers Handbook
+Modern Web Penetration Testing 2016
+Black Hat GraphQL
+Reversing Secrets of Reverse Engineering
+Burp Suite Essentials
+Complete Guide to Shodan
+The Tangled Web A Guide to Securing Modern Web Applications
+Web Hacking 101
+Crypto 101
