@@ -37,3 +37,6 @@ The definitive guide to finding and exploiting web security flaws (SQLi, XSS, CS
 Wicked Cool Shell Scripts, 2nd Edition – Dave Taylor (2017)
 A recipe-style collection of fun and useful shell scripts for macOS, Linux, and Unix, including system monitoring, file management, and text processing examples.
 
+
+Gray Hat Hacking: The Ethical Hacker's Handbook (Third Edition)
+Comprehensive ethical hacking handbook covering penetration testing techniques, exploit development, vulnerability discovery, malware analysis, and defensive countermeasures.
