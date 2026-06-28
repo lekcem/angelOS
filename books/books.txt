@@ -1,84 +1,119 @@
 A Practical Guide to Linux Commands, Editors and Shell Programming – Mark G. Sobell (2018)
-A comprehensive reference and tutorial covering essential Linux commands, text editors (vim, emacs), and detailed shell programming (bash) for both beginners and experienced users.
-
-
-Computer Security: Principles and Practice – William Stallings (and Lawrie Brown) (2018 for the 4th Edition)
-A broad academic textbook covering cryptography, access control, malware, network security, and software security, balancing theoretical principles with practical implementation.
-
-
-Hacking: The Art of Exploitation, 2nd Edition – Jon Erickson (2008)
-A hands-on guide to real hacking techniques, including C programming, assembly language, exploit writing, buffer overflows, and network hacking, with live CD examples.
-
-
-How Linux Works: What Every Superuser Should Know – Brian Ward (2014 for 2nd Edition)
-An insider's guide to the internals of Linux, covering booting, kernel management, devices, filesystems, networking, and system administration for intermediate-to-advanced users.
-
-
-Kali Linux Revealed (2021 edition) – Raphaël Hertzog, Jim O’Gorman, Mati Aharoni (2021)
-The official Kali Linux guide covering installation, configuration, customization, and advanced penetration testing workflows, written by core Kali maintainers.
-
-
-Linux Basics for Hackers – OccupyTheWeb (2018)
-A beginner-friendly introduction to Linux specifically tailored for aspiring hackers and pentesters, covering networking, bash scripting, permissions, and common hacking tools.
-
-
-Linux Command Line and Shell Scripting Bible – Richard Blum, Christine Bresnahan (2021 for 4th Edition)
-A thorough tutorial covering everything from basic command-line usage to advanced scripting techniques, including regular expressions, sed, awk, and automation.
-
-
-Practical Malware Analysis – Michael Sikorski, Andrew Honig (2012)
-A hands-on guide to dissecting and understanding malicious software using static and dynamic analysis techniques, debugging, and reverse engineering tools.
-
-
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition – Dafydd Stuttard, Marcus Pinto (2011)
-The definitive guide to finding and exploiting web security flaws (SQLi, XSS, CSRF, etc.), covering attack techniques, methodology, and defensive strategies.
-
-
-Wicked Cool Shell Scripts, 2nd Edition – Dave Taylor (2017)
-A recipe-style collection of fun and useful shell scripts for macOS, Linux, and Unix, including system monitoring, file management, and text processing examples.
-
-
-Gray Hat Hacking: The Ethical Hacker's Handbook (Third Edition)
-Comprehensive ethical hacking handbook covering penetration testing techniques, exploit development, vulnerability discovery, malware analysis, and defensive countermeasures.
-
-
-Bug Bounty Playbook
-Real World Bug Hunting - A Field Guide to Web Hacking by Peter Yaworski
 Advanced Persistent Threat Hacking
+Assembly Language For x86 Processors
 Begin Ethical Hacking with Python
+Black Hat GraphQL
+Bug Bounty Playbook
+Burp Suite Essentials
 CompTIA Security+ Certification Guide
+Complete Guide to Shodan
 Computer Security Fundamentals
-Linux Firewalls
-Mastering Kali Linux for Advanced Penetration Testing 2nd Edition
-Metasploit for Beginners
-Social Engineering - The Art of Human Hacking
-The Hacker Playbook 3 Practical Guide To Penetration Testing
+Computer Security: Principles and Practice – William Stallings (and Lawrie Brown) (2018 for the 4th Edition)
+Crypto 101
 Digital Forensics and Incident Response
-Practical Mobile Forensics 3rd
-Wiley - Operating System Concepts - 10th Edition
+Gray Hat Hacking: The Ethical Hacker's Handbook (Third Edition)
+Gray Hat Python - Python Programming for Hackers and Reverse Engineering
+Hacking: The Art of Exploitation, 2nd Edition – Jon Erickson (2008)
+Hands On AWS Penetration Testing with Kali Linux
 Honeypots and Routers Collecting Internet Attacks
+How Linux Works: What Every Superuser Should Know – Brian Ward (2014 for 2nd Edition)
+Kali Linux Revealed (2021 edition) – Raphaël Hertzog, Jim O’Gorman, Mati Aharoni (2021)
+Learning Malware Analysis
+Linux Basics for Hackers – OccupyTheWeb (2018)
+Linux Command Line and Shell Scripting Bible – Richard Blum, Christine Bresnahan (2021 for 4th Edition)
+Linux Firewalls
+Malware Data Science 2018
+Mastering Kali Linux for Advanced Penetration Testing 2nd Edition
 Mastering pfSense
+Metasploit for Beginners
 Metasploit Penetration Testing Cookbook 3rd Edition
-Network Attacks and Exploitation
+Modern Web Penetration Testing 2016
 Network Analysis Using Wireshark 2 Cookbook
+Network Attacks and Exploitation
 Network Security Through Data Analysis 2nd Edition
 Nmap Network Exploration and Security Auditing Cookbook 2nd Edition
-TCP IP 24 hours 6th
-Assembly Language For x86 Processors
-Gray Hat Python - Python Programming for Hackers and Reverse Engineering
-Learning Malware Analysis
-Malware Data Science 2018
-The IDA Pro Book 2nd Edition
-Penetration testing a Hands on introduction to Hacking
-Hands On AWS Penetration Testing with Kali Linux
-Web Penetration Testing with Kali Linux 3rd Edition
+Operating System Concepts - 10th Edition (Wiley)
 Oreilly Web Application Security by Andrew Hoffman
-The Web Application Hackers Handbook
-Modern Web Penetration Testing 2016
-Black Hat GraphQL
+Penetration testing a Hands on introduction to Hacking
+Practical Malware Analysis – Michael Sikorski, Andrew Honig (2012)
+Practical Mobile Forensics 3rd
+Real World Bug Hunting - A Field Guide to Web Hacking by Peter Yaworski
 Reversing Secrets of Reverse Engineering
-Burp Suite Essentials
-Complete Guide to Shodan
+Social Engineering - The Art of Human Hacking
+TCP IP 24 hours 6th
+The Hacker Playbook 3 Practical Guide To Penetration Testing
+The IDA Pro Book 2nd Edition
 The Tangled Web A Guide to Securing Modern Web Applications
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition – Dafydd Stuttard, Marcus Pinto (2011)
+The Web Application Hackers Handbook
 Web Hacking 101
-Crypto 101
+Web Penetration Testing with Kali Linux 3rd Edition
+Wicked Cool Shell Scripts, 2nd Edition – Dave Taylor (2017)
+
+28/06/2026
+AndroidNotesForProfessionals.pdf
+Angular2NotesForProfessionals.pdf
+APROGRAMMINGLANGUAGE.pdf
+Architecting Modern Web Applications with ASP.NET-Core and Azure.pdf
+BashNotesForProfessionals.pdf
+Compilers Principles, Techniques, and Tools.pdf
+DOD TRUSTED COMPUTER SYSTEM EVALUATION CRITERIA.pdf
+GitNotesForProfessionals.pdf
+GNU Cobol Programmers Guide 2.1.pdf
+IBM ILE COBOL Language Reference.pdf
+iOSNotesForProfessionals.pdf
+JavaScriptNotesForProfessionals.pdf
+LaTeXNotesForProfessionals.pdf
+LinuxNotesForProfessionals.pdf
+pcasm book.pdf
+PHPNotesForProfessionals.pdf
+Programming Ground Up 1 0 booksize.pdf
+THE DESIGN OF THE UNIX OPERATING SYSTEM.pdf
+Trusted Computer System Evaluation Criteria [Orange Book].pdf
+Unix Programmers Manual Supplementary Documents.pdf
+Unix Programming Environment Brian W. Kernighan, Rob Pike.pdf
+verilog 2001 ref guide.pdf
+VisualBasic_NETNotesForProfessionals.pdf
+vulkan tutorial.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
